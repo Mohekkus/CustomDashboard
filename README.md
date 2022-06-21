@@ -4,4 +4,5 @@
 # Using
 Hilt. love this one  
 Firebase Firestore.  
-Tears and blood. Yes.
+Tears and blood. Yes.  
+View binding.
