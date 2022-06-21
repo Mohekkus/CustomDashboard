@@ -1,0 +1,14 @@
+Error:Execution failed for task ':app:kaptDebugKotlin'
+
+Hilt had problems with kapt, and new plugins in :app
+Way to fix
+Remove :project plugins
+replace with buildscript depedencies
+add
+        classpath 'com.android.tools.build:gradle:7.2.1'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10"
+        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.40.1'
+
+add :app plugins
+    id("kotlin-kapt")
+    id("dagger.hilt.android.plugin")

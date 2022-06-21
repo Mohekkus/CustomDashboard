@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_all_rounded_solid_darkest.xml" value="0.2255" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_border_darkest.xml" value="0.2255" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_border_white.xml" value="0.387" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_dot_black.xml" value="0.386" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_rounded_solid_primary.xml" value="0.386" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/drawable/drawable_up_rounded_solid_white.xml" value="0.386" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_card_summary.xml" value="0.1" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_dash_card.xml" value="0.1" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_dash_recent.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_summary_card.xml" value="0.67" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_vendor_card.xml" value="0.33" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/component_vendor_other.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_budget.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_dashboard.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_detail.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_detail_frag.xml" value="0.33" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_splash.xml" value="0.1" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_summary.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_vendor.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mohek/AndroidStudioProjects/MadDashboard/app/src/main/res/layout/layout_vendor_fragment.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

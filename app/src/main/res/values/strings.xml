@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mad Dashboard</string>
+
+    <string name="dash_scroll">DASH SCROLL STRING</string>
+</resources>
